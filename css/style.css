@@ -37,6 +37,7 @@ img:hover{
 		    border: 1px solid #1ee8e8bf;
 		    box-shadow: 1px 5px 21px 4px #00dcffb8;
 		    transition: 0.5s ease-in-out;
+	            cursor: pointer;
 	}
 
 
@@ -53,6 +54,7 @@ img:hover{
 		    background-color: #80808061;
 		    font-weight: 5px;
 		    color:white;
+		cursor: pointer;
 	}
 
 .form:hover{
@@ -93,6 +95,7 @@ img:hover{
 		   	box-shadow: 2px 0px 9px 4px #0086d4cc;
 		   	transform: scale(1.15);
     		transition: 0.5s ease-in-out;
+		cursor: pointer;
 	}
 
 
@@ -110,6 +113,8 @@ img:hover{
 		    border-bottom-color: #fafcffc7;
 		    border-right-color: #fdfeffb3;
 			display:block;
+			cursor: pointer;
+			
 	}
 
 
@@ -136,6 +141,7 @@ img:hover{
 		    border-bottom-color: #fafcffc7;
 		    border-right-color: #fdfeffb3;
 			display:block;
+			cursor: pointer;
 	}
 	
 
@@ -161,6 +167,7 @@ img:hover{
 		    border-bottom-color: #fafcffc7;
 		    border-right-color: #fdfeffb3;
 			display:block;
+	 		cursor: pointer;
 	}
 
 .btn3:hover{
